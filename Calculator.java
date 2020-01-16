@@ -1,3 +1,4 @@
+//four function calculator using commandline
 public class Calculator
 {
 public static void main(String[] arg)
