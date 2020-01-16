@@ -1,3 +1,4 @@
+//greates of three numbers using commandline
 public class Three
 {
 public static void main(String[] arg)
